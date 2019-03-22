@@ -1,9 +1,11 @@
 # ObjectBoundingBoxDetection
 
 This project was part of Flipkart Grid Challenge : Bounding Box Detection
+Given the image trianing dataset with coordinates of bounding box annotated, model is trained to output bounding box on new images.
 
 Tools and Frameworks used :
 Keras
+
 Libraries used:
 pandas
 numpy
